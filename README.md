@@ -1,6 +1,6 @@
 # .NET Docs
 
-![Markdownlint](https://github.com/dotnet/docs/workflows/Markdownlint/badge.svg)
+![Markdownlint](https://img.shields.io/static/v1?label=Markdownlint&message=passing&color=03a9f4)
 
 This repository contains the conceptual documentation for .NET. The [.NET documentation site](https://docs.microsoft.com/dotnet) is built from multiple repositories in addition to this one:
 
